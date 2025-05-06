@@ -1,0 +1,64 @@
+#tui{
+    display: none;}
+    #resi{
+    display: none;}
+    #book{
+    display: none;}
+    #inc{
+    display: none;}
+    
+    body {
+      background-color: #4F5D75!important;
+      font-family: Courier, monospace!important;
+    }
+    
+    #heading{
+      background-color: #EF8354!important;
+    }
+    h1{
+      color: #FFFFFF!important;
+      font-weight: bold !important;
+    }
+    h2{
+      color: #FFFFFF!important;
+      text-align: center !important;
+      font-weight: bold !important;
+    }
+    h4{
+      color: #FFFFFF !important;
+    }
+    h5{
+      color: #FFFFFF !important;
+      text-decoration: underline !important;
+    }
+    p{
+      color: #FFFFFF!important;
+    }
+    
+    .btn-secondary {
+      background-color: #EF8354!important;
+      color: #fff!important;
+      text-align: center !important;
+    }
+    
+    
+    .nav-link{
+      color: #000!important;
+    }
+    
+    .nav .nav-link:hover {
+      background-color: #EF8354!important;
+      color: #FFFFFF!important;
+    }
+    
+    .dropdown-item:hover{
+      background-color: #EF8354!important;
+      color: #FFFFFF!important;
+    }
+    
+    
+    .map {
+      display:flex;
+      justify-content:center;
+      align-items:center;
+    }
